@@ -60,7 +60,7 @@ CV %>% print_contact_info()
 
 ```{r}
 if(params$pdf_mode){
-  cat("View this CV online with links at _lizroten.com/cv_")
+  cat("View this CV online with links at _lizroten.com_")
 } else {
   cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/eroten/cv/raw/master/cv.pdf)")
 }
