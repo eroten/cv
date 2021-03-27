@@ -1,4 +1,4 @@
 Id used for finding text block,Contents of text block. Supports markdown formatting.
 loc,text
-intro,"I work at the intersection of planning and analysis in regional government. I specialize in geospatial analysis and visualization and have considerable experience in R package development, using aggregated location-based services (LBS) analysis to research regional parks visitors, and building interactive data visualization tools for housing, parcel, and ACS data."
-data_science_writing_aside,I blog about data science and visualization on my blog [lizroten.info/blog.](https://lizroten.info/blog)
+intro,I am a highly motivated data scientist and cartographer with a passion for data visualization. I make complex topics easy to understand using compelling visual design. My static and interactive visualizations are attractive and powerful tools for decision making.
+data_science_writing_aside,I blog about data science and visualization on my website [lizroten.com.](https://www.lizroten.com/post/)
