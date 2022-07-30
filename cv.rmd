@@ -17,6 +17,9 @@ knitr::opts_chunk$set(
   echo = FALSE
 )
 
+# remotes::install_github("nstrayer/datadrivencv#86")
+# remotes::install_github("mitchelloharawild/icons")
+
 library(magrittr) # For the pipe
 source("cv_printing_functions.r")
 
